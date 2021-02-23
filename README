@@ -10,6 +10,8 @@ Fernando Guevara Vasquez
 ---
 November 2020: initial revision
 February 2021: added code for figure 1, 1D and non-zero initial conditions
+Funding: This project was partially funded by the National Science Foundation
+Grant DMS-2008610.  
 ---
 
 All scripts take over an hour to run on the machine we used. The exception
